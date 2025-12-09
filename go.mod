@@ -1,4 +1,4 @@
-module github.com/dynnian/healthcheck_aix
+module github.com/dynnian/montek
 
 go 1.24.9
 
